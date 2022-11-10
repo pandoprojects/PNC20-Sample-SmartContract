@@ -1,5 +1,5 @@
 {
-  "name": "samplecontract",
+  "name": "Sample-PNC20-Contract",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -8,8 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Pandolab Pte Ltd",
+  "license": "GPL-3.0 license",
   "dependencies": {
     "@nomiclabs/hardhat-ethers": "^2.1.0",
     "@nomiclabs/hardhat-etherscan": "^3.1.0",
